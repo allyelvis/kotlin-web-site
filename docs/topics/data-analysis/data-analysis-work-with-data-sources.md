@@ -1,6 +1,6 @@
-[//]: # (title: Retrive data from files)
+[//]: # (title: Retrieve data from files)
 
-Simple guide how to start working data sources with Kotlin Notebooks.
+Simple guide how to start working data sources with Kotlin notebooks.
 
 ## Before you start
 
@@ -8,13 +8,13 @@ Simple guide how to start working data sources with Kotlin Notebooks.
 * Install the [Kotlin Notebook plugin](https://plugins.jetbrains.com/plugin/16340-kotlin-notebook).
 * Add a dependency to the DataFrame library (?)
 
-## From csv file
+## From CSV file
 
-## From json file
+## From JSON file
 
 ## From XML file
 
-## From txt file
+## From TXT file
 
 ## What's next
 

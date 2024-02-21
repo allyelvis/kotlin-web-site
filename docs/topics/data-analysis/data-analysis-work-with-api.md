@@ -1,6 +1,6 @@
 [//]: # (title: Work with data sources in Kotlin Notebooks)
 
-Simple guide how to start working data sources with Kotlin Notebooks.
+Simple guide how to start working data sources with Kotlin notebooks.
 
 ## Before you start
 
@@ -12,7 +12,7 @@ Simple guide how to start working data sources with Kotlin Notebooks.
 
 ## Manipulate with data
 
-## Analyze it in Kotlin Notebooks
+## Analyze it using Kotlin Notebook
 
 ## What's next
 
